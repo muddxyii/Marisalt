@@ -1,0 +1,6 @@
+[submodule "Marisalt-Art-Assets"]
+	path = Marisalt-Art-Assets
+	url = https://github.com/muddxyii/Marisalt-Art-Assets
+[submodule "Marisalt-Godot"]
+	path = Marisalt-Godot
+	url = https://github.com/muddxyii/Marisalt-Godot
